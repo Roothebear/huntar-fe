@@ -84,7 +84,7 @@ Node v17.0.0 or higher is recommended on your development machine to work with t
    ```sh
    npm install
    ```
-   2. Run locally
+3. Run locally
    ```sh
    npm start
    ```
