@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/bayardt/huntar_fe">
+  <a href="https://github.com/roothebear/huntar_fe">
     <img src="HuntAR.png" alt="Logo" height="80">
   </a>
 
@@ -83,6 +83,10 @@ Node v17.0.0 or higher is recommended on your development machine to work with t
 2. Install NPM packages
    ```sh
    npm install
+   ```
+   2. Run locally
+   ```sh
+   npm start
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
