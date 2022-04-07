@@ -10,7 +10,7 @@
 <h3 align="center">HuntAR</h3>
 
   <p align="center">
-    <a href="https://scavengar.netlify.app">View Demo</a>
+    <a href="https://huntar.netlify.app">View Demo</a>
   </p>
 </div>
 
@@ -45,7 +45,7 @@ This project is the front-end component of a browser-based AR scavenger hunt gam
 
 It was created in collaboration by:
 * [Imadeddeen Almenghawi](https://github.com/Menghacoder)
-* [Roo da Silva](https://github.com/Roothebear)
+* [Roo da Silva](https://github.com/roothebear)
 * [Faiza Khan](https://github.com/faizakhancode)
 * [Kalum Wildig](https://github.com/kalumwildig)
 * [Bayard Tarpley](https://github.com/bayardt)
@@ -78,7 +78,7 @@ Node v17.0.0 or higher is recommended on your development machine to work with t
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bayardt/huntar-fe.git
+   git clone https://github.com/roothebear/huntar-fe.git
    ```
 2. Install NPM packages
    ```sh
